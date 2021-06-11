@@ -1,0 +1,32 @@
+{
+    "id": "5FE4BE20",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1623261985799.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "agg_dat",
+        "caption": "agg_dat",
+        "totalObservations": 26,
+        "displayedObservations": 26,
+        "variables": 2,
+        "cacheKey": "D2D01F25",
+        "object": "agg_dat",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=agg_dat&cache_key=D2D01F25&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1567781248256,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1623261985799,
+    "read_only": false,
+    "read_only_alternatives": []
+}
